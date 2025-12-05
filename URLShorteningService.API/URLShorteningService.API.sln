@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLShorteningService.API", "URLShorteningService.API\URLShorteningService.API.csproj", "{E5295A04-C830-4114-B00A-C0102BBDC21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5295A04-C830-4114-B00A-C0102BBDC21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5295A04-C830-4114-B00A-C0102BBDC21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5295A04-C830-4114-B00A-C0102BBDC21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5295A04-C830-4114-B00A-C0102BBDC21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {634B4D11-DF46-46FD-8799-A4F36A3B6F8F}
+	EndGlobalSection
+EndGlobal
